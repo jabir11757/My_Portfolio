@@ -1,0 +1,76 @@
+[
+    {
+        "projectName": "Tourist Services",
+        "picture": "https://i.ibb.co/51GGTK3/tourist.jpg",
+        "liveSite": "https://assignment-for-tourism.web.app",
+        "gitRepoClient": "https://github.com/jabir11757/Tourist_Client",
+        "gitRepoServer": "https://github.com/jabir11757/Tourist-Server",
+        "descriptions": "Tourist can easily access & visit place to book.Can also pay which is coming soon.",
+        "screenshots": [
+            {
+                "image1": "https://i.ibb.co/zS4JLyx/chayabuzz1.png",
+                "image2": "https://i.ibb.co/ZJrh5cW/chayabuzz2.png",
+                "image3": "https://i.ibb.co/Xt7VXvN/chayabuzz3.png",
+                "image4": "https://i.ibb.co/R4gq4Vj/chayabuzz4.png"
+            }
+        ],
+        "bulletPoints": [
+            {
+                "point1": "This is a tourist site, where people can choose their liked place & room also.",
+                "point2": "Site contains many features, most attractive feature is feedback for each services.",
+                "point3": "Some pages are hidden for new users, logged in users can visit",
+                "point4": "Family tourist demands will acceptable soon",
+                "point5": "Bullets will be coming soon"
+            }
+        ]
+    },
+    {
+        "projectName": "Learning Site",
+        "picture": "https://i.ibb.co/fDpYYRS/learn.jpg",
+        "liveSite": "https://sheikh-tech-tekka.web.app",
+        "gitRepoClient": "https://github.com/jabir11757/Sheikh_Tech_Tekka_Client",
+        "gitRepoServer": "https://github.com/jabir11757/Sheikh_Tech_Tekka_Server",
+        "descriptions": "Students can easily access & learn a lot lessons. Also have some premium courses for advance.",
+        "screenshots": [
+            {
+                "image1": "https://i.ibb.co/PrhD2Mk/learning1.png",
+                "image2": "https://i.ibb.co/mFx53bV/learning2.png",
+                "image3": "https://i.ibb.co/pRknRFZ/learning3.png",
+                "image4": "https://i.ibb.co/cvwXQZS/learning4.png"
+            }
+        ],
+        "bulletPoints": [
+            {
+                "point1": "Something will be happened soon",
+                "point2": "Something will be happened very very soon",
+                "point3": "New features will be released soon",
+                "point4": "Student will be surprised by new features",
+                "point5": "Demands of students are important"
+            }
+        ]
+    },
+    {
+        "projectName": "Smart Education",
+        "picture": "https://i.ibb.co/JrZ43tW/learning.png",
+        "liveSite": "https://smarteducation-547.netlify.app",
+        "gitRepo": "https://github.com/jabir11757/Smart_Education",
+        "descriptions": "Students can easily access & learn a lot lessons. Also have some premium courses for advance.",
+        "screenshots": [
+            {
+                "image1": "https://i.ibb.co/NC8vVdG/quiz1.png",
+                "image2": "https://i.ibb.co/q06NsPK/quiz2.png",
+                "image3": "https://i.ibb.co/xX41g4R/quiz3.png",
+                "image4": "https://i.ibb.co/L8BpXwg/quiz4.png"
+            }
+        ],
+        "bulletPoints": [
+            {
+                "point1": "Have many courses to select any sections of students",
+                "point2": "Can select a topic & give quiz",
+                "point3": "Quizzes result will be showed by toast message",
+                "point4": "There are premium courses for advance learning",
+                "point5": "Some important features will coming soon"
+            }
+        ]
+    }
+]
